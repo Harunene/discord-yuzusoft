@@ -1,0 +1,45 @@
+{
+  "name": "discord-yuzusoft",
+  "version": "0.0.1",
+  "description": "Discord bot for yuzusoft pricone guild in korea",
+  "main": "main.js",
+  "dependencies": {
+    "@types/gm": "^1.18.6",
+    "@types/lodash": "^4.14.145",
+    "@types/lowdb": "^1.0.9",
+    "canvas": "^2.6.0",
+    "discord.js": "^11.5.1",
+    "eslint": "^6.6.0",
+    "gm": "^1.23.1",
+    "lodash": "^4.17.15",
+    "lowdb": "^1.0.0",
+    "ts-node": "^8.4.1"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.6.1",
+    "@typescript-eslint/parser": "^2.6.1",
+    "eslint-config-prettier": "^6.5.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "prettier": "^1.19.0",
+    "typescript": "^3.7.2"
+  },
+  "scripts": {
+    "start": "ts-node src/main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harunene/discord-yuzusoft.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "yuzusoft",
+    "pricone"
+  ],
+  "author": "harunene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harunene/discord-yuzusoft/issues"
+  },
+  "homepage": "https://github.com/harunene/discord-yuzusoft#readme"
+}

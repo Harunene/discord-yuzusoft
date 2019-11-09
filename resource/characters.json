@@ -1,0 +1,419 @@
+{
+  "characters": [
+    {
+      "name": "Akari",
+      "rare": 2,
+      "gacha": true
+    },
+    {
+      "name": "Akino",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Anna",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Anne",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Aoi",
+      "rare": 1,
+      "gacha": true
+    },
+    {
+      "name": "Arisa",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Ayane",
+      "rare": 2,
+      "gacha": true
+    },
+    {
+      "name": "Ayumi",
+      "rare": 1,
+      "gacha": true
+    },
+    {
+      "name": "Chika",
+      "rare": 2,
+      "gacha": true
+    },
+    {
+      "name": "Chloe",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Christina",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Djeeta",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Emilia",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Eriko",
+      "rare": 2,
+      "gacha": true
+    },
+    {
+      "name": "Grea",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Halloween_Mimi",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Hatsune",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Hiyori",
+      "rare": 1,
+      "gacha": true
+    },
+    {
+      "name": "Ilya",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Io",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Jun",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Kaori",
+      "rare": 2,
+      "gacha": true
+    },
+    {
+      "name": "Kasumi",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Kokkoro",
+      "rare": 1,
+      "gacha": true
+    },
+    {
+      "name": "Kurumi",
+      "rare": 1,
+      "gacha": true
+    },
+    {
+      "name": "Kuuka",
+      "rare": 2,
+      "gacha": true
+    },
+    {
+      "name": "Kyaru",
+      "rare": 1,
+      "gacha": true
+    },
+    {
+      "name": "Kyouka",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Lou",
+      "rare": 1,
+      "gacha": true
+    },
+    {
+      "name": "Luna",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Mahiru",
+      "rare": 2,
+      "gacha": true
+    },
+    {
+      "name": "Maho",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Makoto",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Matsuri",
+      "rare": 2,
+      "gacha": true
+    },
+    {
+      "name": "Mifuyu",
+      "rare": 2,
+      "gacha": true
+    },
+    {
+      "name": "Mimi",
+      "rare": 2,
+      "gacha": true
+    },
+    {
+      "name": "Misaki",
+      "rare": 1,
+      "gacha": true
+    },
+    {
+      "name": "Misato",
+      "rare": 2,
+      "gacha": true
+    },
+    {
+      "name": "Misogi",
+      "rare": 1,
+      "gacha": true
+    },
+    {
+      "name": "Mitsuki",
+      "rare": 2,
+      "gacha": true
+    },
+    {
+      "name": "Miyako",
+      "rare": 2,
+      "gacha": true
+    },
+    {
+      "name": "Monika",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Muimi",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Nanaka",
+      "rare": 2,
+      "gacha": true
+    },
+    {
+      "name": "Neneka",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "New_Year_Rei",
+      "rare": 1,
+      "gacha": true
+    },
+    {
+      "name": "New_Year_Yui",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Ninon",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Nozomi",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Oedo_Kuuka",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Oedo_Ninon",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Pecorine",
+      "rare": 1,
+      "gacha": true
+    },
+    {
+      "name": "Ram",
+      "rare": 1,
+      "gacha": true
+    },
+    {
+      "name": "Rei",
+      "rare": 1,
+      "gacha": true
+    },
+    {
+      "name": "Rem",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Rima",
+      "rare": 1,
+      "gacha": true
+    },
+    {
+      "name": "Rin",
+      "rare": 2,
+      "gacha": true
+    },
+    {
+      "name": "Rino",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Ruka",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Saren",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Shinobu",
+      "rare": 2,
+      "gacha": true
+    },
+    {
+      "name": "Shiori",
+      "rare": 2,
+      "gacha": true
+    },
+    {
+      "name": "Shizuru",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Summer_Io",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Summer_Kaori",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Summer_Kokkoro",
+      "rare": 1,
+      "gacha": true
+    },
+    {
+      "name": "Summer_Kyaru",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Summer_Maho",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Summer_Makoto",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Summer_Mifuyu",
+      "rare": 1,
+      "gacha": true
+    },
+    {
+      "name": "Summer_Saren",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Summer_Suzume",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Summer_Suzuna",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Summer_Tamaki",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Suzume",
+      "rare": 1,
+      "gacha": true
+    },
+    {
+      "name": "Suzuna",
+      "rare": 2,
+      "gacha": true
+    },
+    {
+      "name": "Tamaki",
+      "rare": 2,
+      "gacha": true
+    },
+    {
+      "name": "Tomo",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Tsumugi",
+      "rare": 2,
+      "gacha": true
+    },
+    {
+      "name": "Yori",
+      "rare": 1,
+      "gacha": true
+    },
+    {
+      "name": "Yui",
+      "rare": 1,
+      "gacha": true
+    },
+    {
+      "name": "Yukari",
+      "rare": 1,
+      "gacha": true
+    },
+    {
+      "name": "Yuki",
+      "rare": 2,
+      "gacha": true
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "downlevelIteration": true,
+    "sourceMap": true,
+    "allowJs": true,
+    "lib": ["esnext"]
+  }
+}
