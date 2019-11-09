@@ -12,11 +12,11 @@ Discord bot for yuzusoft pricone guild in korea
 ### 룰렛, roulette command
 - Roll the lyrical roulette with halloween lyrical emojis and add reaction with emoji if there happen jackpot
 
-![roulette preview](./preview/preview_roulette.png)
+![roulette preview](./images/preview_roulette.png)
 
 ### 가챠, gacha command
 - Simulate 10 scout gacha without no jewels
 - TODO : Turn girls into stones if you already own
 - TODO : Calculate all of money you've spent doing gacha
 
-![gacha preview](./preview/preview_gacha.png)
+![gacha preview](./images/preview_gacha.png)
