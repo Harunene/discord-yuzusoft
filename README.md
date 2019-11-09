@@ -6,7 +6,7 @@ Discord bot for yuzusoft pricone guild in korea
 - Change `channelName` in main.ts
 - Add 'kyouka_what', 'misogi_what', 'mimi_what' emoji into your discord channel
 - Put your secret bot token to `./secret/secret`
-- run `./src/main.ts` with `ts-node`
+- run `./src/main.ts` with [ts-node](https://github.com/TypeStrong/ts-node)
 
 ## Commands
 ### 룰렛, roulette command
