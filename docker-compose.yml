@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+  # The application image
+  discord_bot_yuzusoft:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      ENV_NAME: dev
+      DISCORD_BOT_SECRET: secret >_<
+    ports:
+      - 8000:8000

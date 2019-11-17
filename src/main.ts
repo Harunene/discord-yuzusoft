@@ -10,4 +10,4 @@ const nenebot = new Bot([
   new GachaCommand(['가챠', 'gacha'], '10연차를 돌림'),
 ]);
 
-nenebot.login(fs.readFileSync('./secret/secret').toString());
+nenebot.login(process.env.DISCORD_BOT_SECRET);
