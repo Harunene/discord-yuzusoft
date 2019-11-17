@@ -2,11 +2,11 @@
 Discord bot for yuzusoft pricone guild in korea
 
 ## How to start
-- `git clone` and `npm i`
+- `git clone`
 - Change `channelName` in main.ts
 - Add ![kyouka_what](./images/kyouka_what.png), ![misogi_what](./images/misogi_what.png), ![mimi_what](./images/mimi_what.png) emoji into your discord channel
-- Put your secret bot token to `./secret/secret`
-- run `./src/main.ts` with [ts-node](https://github.com/TypeStrong/ts-node)
+- Put your discord bot token secret in `docker-compose.yml`
+- run `docker-compose up`
 
 ## Commands
 ### 룰렛, roulette command
