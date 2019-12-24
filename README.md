@@ -20,3 +20,6 @@ Discord bot for yuzusoft pricone guild in korea
 - TODO : Calculate all of money you've spent doing gacha
 
 ![gacha preview](./images/preview_gacha.png)
+
+## Disclimer
+using data & image from [Expugn/priconne-quest-helper](https://github.com/Expugn/priconne-quest-helper)
