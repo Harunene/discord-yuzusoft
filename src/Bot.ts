@@ -1,5 +1,6 @@
-import * as Discord from 'discord.js';
-import { BaseCommand } from './command/BaseCommand';
+import * as Discord from "discord.js";
+import { BaseCommand } from "./command/BaseCommand";
+import * as _ from "lodash";
 
 export class Bot {
   private commandMap: Map<string, BaseCommand>;
@@ -15,13 +16,14 @@ export class Bot {
     const client = new Discord.Client();
 
     client.login(secret);
-    client.on('ready', () => this.onReady(client));
-    client.on('error', (err: Error) => this.onError(err));
-    client.on('message', (message: Discord.Message) => {
+    client.on("ready", () => this.onReady(client));
+    client.on("error", (err: Error) => this.onError(err));
+    client.on("message", (message: Discord.Message) => {
       if (message.author.bot) {
         return;
       }
-      if (message.content.indexOf('!') !== 0) {
+
+      if (message.content.indexOf("!") !== 0) {
         return;
       }
 
@@ -34,6 +36,17 @@ export class Bot {
 
       if (this.commandMap.has(command)) {
         this.commandMap.get(command).onMessage(client, message, args);
+      } else {
+        message.channel.send(
+          _.sample([
+            "하?",
+            "하???????",
+            "뭐래는거야...",
+            "は？",
+            "は？？？？？？",
+            "何言ってんの？？"
+          ])
+        );
       }
     });
   }
