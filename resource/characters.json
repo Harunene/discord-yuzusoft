@@ -414,6 +414,91 @@
       "name": "Yuki",
       "rare": 2,
       "gacha": true
+    },
+    {
+      "name": "Transfer_Student_Aoi",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Christmas_Ayane",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Christmas_Chika",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Christmas_Christina",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Valentine_Eriko",
+      "rare": 1,
+      "gacha": true
+    },
+    {
+      "name": "New_Year_Hiyori",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Christmas_Ilya",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Kaya",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Christmas_Kurumi",
+      "rare": 1,
+      "gacha": true
+    },
+    {
+      "name": "Halloween_Kyouka",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Halloween_Misaki",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Halloween_Misogi",
+      "rare": 1,
+      "gacha": true
+    },
+    {
+      "name": "Halloween_Miyako",
+      "rare": 1,
+      "gacha": true
+    },
+    {
+      "name": "Christmas_Nozomi",
+      "rare": 1,
+      "gacha": true
+    },
+    {
+      "name": "Summer_Pecorine",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Halloween_Shinobu",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "Valentine_Shizuru",
+      "rare": 3,
+      "gacha": true
     }
   ]
 }
