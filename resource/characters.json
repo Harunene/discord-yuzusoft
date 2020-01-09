@@ -499,6 +499,16 @@
       "name": "Valentine_Shizuru",
       "rare": 3,
       "gacha": true
+    },
+    {
+      "name": "New_Year_Kyaru",
+      "rare": 3,
+      "gacha": true
+    },
+    {
+      "name": "New_Year_Suzume",
+      "rare": 1,
+      "gacha": true
     }
   ]
 }
