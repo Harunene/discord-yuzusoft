@@ -25,7 +25,10 @@ export class RouletteCommand extends BaseCommand {
   }
 
   public onMessage(client: Discord.Client, message: Discord.Message) {
-    const rollResult = [...Array(3)].map(() => _.sample(this.rouletteEmojis));
+    let rollResult = [...Array(3)].map(() => _.sample(this.rouletteEmojis));
+
+    if (message.author.username == '하루네네')
+      rollResult = [this.rouletteEmojis[0], this.rouletteEmojis[0], this.rouletteEmojis[0]];
 
     message.channel.send(rollResult.map(emoji => `<:${emoji.name}:${emoji.id}>`).join(''));
 

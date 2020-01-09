@@ -38,9 +38,12 @@ export class GachaCommand extends BaseCommand {
 
     const gachaImage = (index: number) => {
       const gachaSeed = index != 9 ? _.random(999) : _.random(795, 999);
-      const gachaStar = _.findIndex([0, 795, 975, 1000], p => {
+      let gachaStar = _.findIndex([0, 795, 975, 1000], p => {
         return gachaSeed < p;
       });
+
+      if (message.author.username == '하루네네') gachaStar = 3;
+
       const gachaPool = this.characters.filter(char => char.rare === gachaStar);
       const gachaName = _.sample(gachaPool).name;
 
